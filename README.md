@@ -14,7 +14,12 @@ contains implementations of two users. In addition, data can be loaded using
 a txt file and a MySQL database
 
 example of action:
+
+
 ![Image description](https://github.com/Raval97/Football-Quiz/blob/master/images/1.PNG?raw=true)
+
+
+...
 
 
 ![Image description](https://github.com/Raval97/Football-Quiz/blob/master/images/2.PNG?raw=true)
