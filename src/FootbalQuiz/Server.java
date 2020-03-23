@@ -50,6 +50,8 @@ public class Server {
 
 
 /*shurtcat:
+ ctrl +shift + t - tworzenie klas testowych
+ ctrl + alt + L - automatyczne ukladnie kodu
  ctrl + F9 -debug;   shift + F10 -run   shift + F9 -debug
  sout ; psvm
  alt + enter -podpowiedz
